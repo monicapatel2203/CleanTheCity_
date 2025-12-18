@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Props
+  - PlayerCar
+  - FxTemporaire
+  - Obstacle
+  - brokenroad
+  - EntranceCollider
+  - ExitCollider
+  - FinishLevel
+  - CurvyRoad
+  - Collectible
+  - COIN
+  - Powerup
+  - EnemyCar
+  - HugePattern
+  - BurstObstacle
+  - Key
+  - PatternMove
+  - Road
+  - PatternAnim_Left
+  - PatternAnim_Right
+  - EntranceCollider_Straight
+  - ExitCollider_Straight
+  - brokenroad_coll
+  - Entrance_hole
+  - Exit_hole
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

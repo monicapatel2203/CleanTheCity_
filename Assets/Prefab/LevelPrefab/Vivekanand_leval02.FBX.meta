@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 56e6c80e8512745ed9faf642357b716d
+timeCreated: 1470888740
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box011
+    100002: Bridge_Diffuse map
+    100004: Bridge_Diffuse map 1
+    100006: Bridge_Diffuse map 2
+    100008: Bridge_Diffuse map 3
+    100010: Bridge_Diffuse map 4
+    100012: Bridge_Diffuse map 5
+    100014: Bridge_Diffuse map 6
+    100016: Bridge_Diffuse map 7
+    100018: Bridge_Diffuse map 8
+    100020: Bridge_Diffuse map 9
+    100022: Stone01
+    100024: Stone01 1
+    100026: Stone01 2
+    100028: Stone01 3
+    100030: Stone01 4
+    100032: Stone01 5
+    100034: stone02
+    100036: stone02 1
+    100038: stone02 2
+    100040: stone02 3
+    100042: stone02 4
+    100044: stone03
+    100046: stone03 1
+    100048: stone03 2
+    100050: stone03 3
+    100052: stone03 4
+    100054: stone04
+    100056: stone04 1
+    100058: stone04 2
+    100060: stone04 3
+    100062: stone04 4
+    100064: stone04 5
+    100066: stone04 6
+    100068: stone04 7
+    100070: stone04 8
+    100072: stone05
+    100074: stone05 1
+    100076: stone05 2
+    100078: stone05 3
+    100080: stone05 4
+    100082: stone05 5
+    100084: stone05 6
+    100086: stone05 7
+    100088: //RootNode
+    100090: water
+    400000: Box011
+    400002: Bridge_Diffuse map
+    400004: Bridge_Diffuse map 1
+    400006: Bridge_Diffuse map 2
+    400008: Bridge_Diffuse map 3
+    400010: Bridge_Diffuse map 4
+    400012: Bridge_Diffuse map 5
+    400014: Bridge_Diffuse map 6
+    400016: Bridge_Diffuse map 7
+    400018: Bridge_Diffuse map 8
+    400020: Bridge_Diffuse map 9
+    400022: Stone01
+    400024: Stone01 1
+    400026: Stone01 2
+    400028: Stone01 3
+    400030: Stone01 4
+    400032: Stone01 5
+    400034: stone02
+    400036: stone02 1
+    400038: stone02 2
+    400040: stone02 3
+    400042: stone02 4
+    400044: stone03
+    400046: stone03 1
+    400048: stone03 2
+    400050: stone03 3
+    400052: stone03 4
+    400054: stone04
+    400056: stone04 1
+    400058: stone04 2
+    400060: stone04 3
+    400062: stone04 4
+    400064: stone04 5
+    400066: stone04 6
+    400068: stone04 7
+    400070: stone04 8
+    400072: stone05
+    400074: stone05 1
+    400076: stone05 2
+    400078: stone05 3
+    400080: stone05 4
+    400082: stone05 5
+    400084: stone05 6
+    400086: stone05 7
+    400088: //RootNode
+    400090: water
+    2300000: Bridge_Diffuse map
+    2300002: Bridge_Diffuse map 1
+    2300004: Bridge_Diffuse map 2
+    2300006: Bridge_Diffuse map 3
+    2300008: Bridge_Diffuse map 4
+    2300010: Bridge_Diffuse map 5
+    2300012: Bridge_Diffuse map 6
+    2300014: Bridge_Diffuse map 7
+    2300016: Bridge_Diffuse map 8
+    2300018: Bridge_Diffuse map 9
+    2300020: Stone01 1
+    2300022: Stone01 2
+    2300024: Stone01 3
+    2300026: Stone01 4
+    2300028: Stone01 5
+    2300030: stone02
+    2300032: stone02 1
+    2300034: stone02 2
+    2300036: stone02 3
+    2300038: stone02 4
+    2300040: stone03
+    2300042: stone03 1
+    2300044: stone03 2
+    2300046: stone03 3
+    2300048: stone03 4
+    2300050: stone04
+    2300052: stone04 1
+    2300054: stone04 2
+    2300056: stone04 3
+    2300058: stone04 4
+    2300060: stone04 5
+    2300062: stone04 6
+    2300064: stone04 7
+    2300066: stone04 8
+    2300068: stone05
+    2300070: stone05 1
+    2300072: stone05 2
+    2300074: stone05 3
+    2300076: stone05 4
+    2300078: stone05 5
+    2300080: stone05 7
+    2300082: water
+    3300000: Bridge_Diffuse map
+    3300002: Bridge_Diffuse map 1
+    3300004: Bridge_Diffuse map 2
+    3300006: Bridge_Diffuse map 3
+    3300008: Bridge_Diffuse map 4
+    3300010: Bridge_Diffuse map 5
+    3300012: Bridge_Diffuse map 6
+    3300014: Bridge_Diffuse map 7
+    3300016: Bridge_Diffuse map 8
+    3300018: Bridge_Diffuse map 9
+    3300020: Stone01 1
+    3300022: Stone01 2
+    3300024: Stone01 3
+    3300026: Stone01 4
+    3300028: Stone01 5
+    3300030: stone02
+    3300032: stone02 1
+    3300034: stone02 2
+    3300036: stone02 3
+    3300038: stone02 4
+    3300040: stone03
+    3300042: stone03 1
+    3300044: stone03 2
+    3300046: stone03 3
+    3300048: stone03 4
+    3300050: stone04
+    3300052: stone04 1
+    3300054: stone04 2
+    3300056: stone04 3
+    3300058: stone04 4
+    3300060: stone04 5
+    3300062: stone04 6
+    3300064: stone04 7
+    3300066: stone04 8
+    3300068: stone05
+    3300070: stone05 1
+    3300072: stone05 2
+    3300074: stone05 3
+    3300076: stone05 4
+    3300078: stone05 5
+    3300080: stone05 7
+    3300082: water
+    4300000: stone04
+    4300002: stone04
+    4300004: stone04
+    4300006: stone04
+    4300008: stone04
+    4300010: stone04
+    4300012: stone04
+    4300014: stone04
+    4300016: stone03
+    4300018: stone03
+    4300020: stone03
+    4300022: stone03
+    4300024: stone05
+    4300026: stone05
+    4300028: stone05
+    4300030: stone05
+    4300032: stone05
+    4300034: stone05
+    4300036: stone05
+    4300038: stone02
+    4300040: stone02
+    4300042: stone02
+    4300044: stone02
+    4300046: Stone01
+    4300048: Stone01
+    4300050: Stone01
+    4300052: Stone01
+    4300054: Stone01
+    4300056: water
+    4300058: stone04
+    4300060: stone02
+    4300062: stone03
+    4300064: Bridge_Diffuse map
+    4300066: Bridge_Diffuse map
+    4300068: Bridge_Diffuse map
+    4300070: Bridge_Diffuse map
+    4300072: Bridge_Diffuse map
+    4300074: Bridge_Diffuse map
+    4300076: Bridge_Diffuse map
+    4300078: Bridge_Diffuse map
+    4300080: Bridge_Diffuse map
+    4300082: Bridge_Diffuse map
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 360
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

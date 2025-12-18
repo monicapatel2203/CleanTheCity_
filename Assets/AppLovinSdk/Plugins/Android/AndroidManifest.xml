@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.IF.cleanthecity">
+    <application>
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="LpT4Hy_S3KbPvmAIQEAt3G80PtiKPTQq3SyaF55TMOilEheiOtsSQs8hMpMNoBdLUK1XeczynaBkiKz8y6k8T5" />
+    </application>
+</manifest>
